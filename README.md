@@ -105,8 +105,20 @@ The primary objective of this hands-on lab is to demonstrate practical password 
 5. **Mitigation Strategies:** To prevent successful hash cracking attacks, organizations must enforce long, complex passphrase policies and adopt robust encryption schemes (such as AES-256 with strong key derivation functions).
 
 ---
+## 5. Problem faced
+It kept making the font red , showing that the path is incorrect.
 
-## 5. Liability Disclaimer
+<img width="425" height="270" alt="Screenshot 2026-08-24 165631" src="https://github.com/user-attachments/assets/d47090ed-2e12-4a52-b6c1-2e90bac63c80" />
+
+**Solution**
+It was only because Johnny wasn't opened in the administrative mode.
+
+<img width="442" height="350" alt="Screenshot 2026-08-24 200541" src="https://github.com/user-attachments/assets/92f3666f-e670-40c4-bb49-7e130455a4db" />
+
+
+---
+
+## 6. Liability Disclaimer
 
 > **DISCLAIMER:**  
 > This document and the activities described herein are intended strictly for **educational, academic, and authorized defensive testing purposes**. All testing was executed in a controlled laboratory environment on test files provided explicitly for this learning module.  
